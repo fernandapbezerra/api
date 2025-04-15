@@ -1,10 +1,14 @@
-#Passo a Passo:
+# Passo a Passo:
 
 
-#Primeiro Passo: Criar a interface e definir os metodos CRUD
+# Primeiro Passo:
+
+Criar a interface e definir os metodos CRUD
 
 
-#Sengundo Passo: Criando  a classe  Repository
+# Sengundo Passo: 
+
+# Criando  a classe  Repository
 
 
 -Herdar Interface
@@ -19,7 +23,9 @@
 -Implementar Metodos
 
 
-#Quarto passo: Criar a classe Controller:
+# Quarto passo: 
+
+# Criar a classe Controller:
 
 -Injetar o Repository
 
@@ -34,5 +40,7 @@
 --Editar
 
 
-#Quinto Passo: Configuracao do Swagger
+# Quinto Passo: 
+
+Configuracao do Swagger
 
